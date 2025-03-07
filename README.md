@@ -1,4 +1,4 @@
-## Design documentation
+## Design Documentation
 
 ```mermaid
 classDiagram
