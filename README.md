@@ -1,3 +1,5 @@
+# Design documentation
+
 ```mermaid
 classDiagram
     class DSString {
